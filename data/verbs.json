@@ -1,0 +1,237 @@
+[
+  {
+    "verb": "être",
+    "type": "irregular",
+    "conjugations": {
+      "présent": {"je":"suis","tu":"es","il/elle/on":"est","nous":"sommes","vous":"êtes","ils/elles":"sont"},
+      "imparfait": {"je":"étais","tu":"étais","il":"était","nous":"étions","vous":"étiez","ils":"étaient"},
+      "passé composé": {"je":"ai été","tu":"as été","il":"a été","nous":"avons été","vous":"avez été","ils":"ont été"},
+      "plus que parfait": {"je":"avais été","tu":"avais été","il":"avait été","nous":"avions été","vous":"aviez été","ils":"avaient été"},
+      "futur simple": {"je":"serai","tu":"seras","il":"sera","nous":"serons","vous":"serez","ils":"seront"},
+      "futur proche": {"je":"vais être","tu":"vas être","il":"va être","nous":"allons être","vous":"allez être","ils":"vont être"},
+      "conditionnel présent": {"je":"serais","tu":"serais","il":"serait","nous":"serions","vous":"seriez","ils":"seraient"}
+    }
+  },
+  {
+    "verb": "avoir",
+    "type": "irregular",
+    "conjugations": {
+      "présent": {"je":"ai","tu":"as","il":"a","nous":"avons","vous":"avez","ils":"ont"},
+      "imparfait": {"je":"avais","tu":"avais","il":"avait","nous":"avions","vous":"aviez","ils":"avaient"},
+      "passé composé": {"je":"ai eu","tu":"as eu","il":"a eu","nous":"avons eu","vous":"avez eu","ils":"ont eu"},
+      "plus que parfait": {"je":"avais eu","tu":"avais eu","il":"avait eu","nous":"avions eu","vous":"aviez eu","ils":"avaient eu"},
+      "futur simple": {"je":"aurai","tu":"auras","il":"aura","nous":"aurons","vous":"aurez","ils":"auront"},
+      "futur proche": {"je":"vais avoir","tu":"vas avoir","il":"va avoir","nous":"allons avoir","vous":"allez avoir","ils":"vont avoir"},
+      "conditionnel présent": {"je":"aurais","tu":"aurais","il":"aurait","nous":"aurions","vous":"auriez","ils":"auraient"}
+    }
+  },
+  {
+    "verb": "aller",
+    "type": "irregular",
+    "conjugations": {
+      "présent": {"je":"vais","tu":"vas","il":"va","nous":"allons","vous":"allez","ils":"vont"},
+      "imparfait": {"je":"allais","tu":"allais","il":"allait","nous":"allions","vous":"alliez","ils":"allaient"},
+      "passé composé": {"je":"suis allé","tu":"es allé","il":"est allé","nous":"sommes allés","vous":"êtes allés","ils":"sont allés"},
+      "plus que parfait": {"je":"étais allé","tu":"étais allé","il":"était allé","nous":"étions allés","vous":"étiez allés","ils":"étaient allés"},
+      "futur simple": {"je":"irai","tu":"iras","il":"ira","nous":"irons","vous":"irez","ils":"iront"},
+      "futur proche": {"je":"vais aller","tu":"vas aller","il":"va aller","nous":"allons aller","vous":"allez aller","ils":"vont aller"},
+      "conditionnel présent": {"je":"irais","tu":"irais","il":"irait","nous":"irions","vous":"iriez","ils":"iraient"}
+    }
+  },
+  {
+    "verb": "faire",
+    "type": "irregular",
+    "conjugations": {
+      "présent": {"je":"fais","tu":"fais","il":"fait","nous":"faisons","vous":"faites","ils":"font"},
+      "imparfait": {"je":"faisais","tu":"faisais","il":"faisait","nous":"faisions","vous":"faisiez","ils":"faisaient"},
+      "passé composé": {"je":"ai fait","tu":"as fait","il":"a fait","nous":"avons fait","vous":"avez fait","ils":"ont fait"},
+      "plus que parfait": {"je":"avais fait","tu":"avais fait","il":"avait fait","nous":"avions fait","vous":"aviez fait","ils":"avaient fait"},
+      "futur simple": {"je":"ferai","tu":"feras","il":"fera","nous":"ferons","vous":"ferez","ils":"feront"},
+      "futur proche": {"je":"vais faire","tu":"vas faire","il":"va faire","nous":"allons faire","vous":"allez faire","ils":"vont faire"},
+      "conditionnel présent": {"je":"ferais","tu":"ferais","il":"ferait","nous":"ferions","vous":"feriez","ils":"feraient"}
+    }
+  },
+  {
+    "verb": "pouvoir",
+    "type": "irregular",
+    "conjugations": {
+      "présent": {"je":"peux","tu":"peux","il":"peut","nous":"pouvons","vous":"pouvez","ils":"peuvent"},
+      "imparfait": {"je":"pouvais","tu":"pouvais","il":"pouvait","nous":"pouvions","vous":"pouviez","ils":"pouvaient"},
+      "passé composé": {"je":"ai pu","tu":"as pu","il":"a pu","nous":"avons pu","vous":"avez pu","ils":"ont pu"},
+      "plus que parfait": {"je":"avais pu","tu":"avais pu","il":"avait pu","nous":"avions pu","vous":"aviez pu","ils":"avaient pu"},
+      "futur simple": {"je":"pourrai","tu":"pourras","il":"pourra","nous":"pourrons","vous":"pourrez","ils":"pourront"},
+      "futur proche": {"je":"vais pouvoir","tu":"vas pouvoir","il":"va pouvoir","nous":"allons pouvoir","vous":"allez pouvoir","ils":"vont pouvoir"},
+      "conditionnel présent": {"je":"pourrais","tu":"pourrais","il":"pourrait","nous":"pourrions","vous":"pourriez","ils":"pourraient"}
+    }
+  },
+  {
+    "verb": "dire",
+    "type": "irregular",
+    "conjugations": {
+      "présent": {"je":"dis","tu":"dis","il":"dit","nous":"disons","vous":"dites","ils":"disent"},
+      "imparfait": {"je":"disais","tu":"disais","il":"disait","nous":"disions","vous":"disiez","ils":"disaient"},
+      "passé composé": {"je":"ai dit","tu":"as dit","il":"a dit","nous":"avons dit","vous":"avez dit","ils":"ont dit"},
+      "plus que parfait": {"je":"avais dit","tu":"avais dit","il":"avait dit","nous":"avions dit","vous":"aviez dit","ils":"avaient dit"},
+      "futur simple": {"je":"dirai","tu":"diras","il":"dira","nous":"dirons","vous":"direz","ils":"diront"},
+      "futur proche": {"je":"vais dire","tu":"vas dire","il":"va dire","nous":"allons dire","vous":"allez dire","ils":"vont dire"},
+      "conditionnel présent": {"je":"dirais","tu":"dirais","il":"dirait","nous":"dirions","vous":"diriez","ils":"diraient"}
+    }
+  },
+  {
+    "verb": "voir",
+    "type": "irregular",
+    "conjugations": {
+      "présent": {"je":"vois","tu":"vois","il":"voit","nous":"voyons","vous":"voyez","ils":"voient"},
+      "imparfait": {"je":"voyais","tu":"voyais","il":"voyait","nous":"voyions","vous":"voyiez","ils":"voyaient"},
+      "passé composé": {"je":"ai vu","tu":"as vu","il":"a vu","nous":"avons vu","vous":"avez vu","ils":"ont vu"},
+      "plus que parfait": {"je":"avais vu","tu":"avais vu","il":"avait vu","nous":"avions vu","vous":"aviez vu","ils":"avaient vu"},
+      "futur simple": {"je":"verrai","tu":"verras","il":"verra","nous":"verrons","vous":"verrez","ils":"verront"},
+      "futur proche": {"je":"vais voir","tu":"vas voir","il":"va voir","nous":"allons voir","vous":"allez voir","ils":"vont voir"},
+      "conditionnel présent": {"je":"verrais","tu":"verrais","il":"verrait","nous":"verrions","vous":"verriez","ils":"verraient"}
+    }
+  },
+  {
+    "verb": "savoir",
+    "type": "irregular",
+    "conjugations": {
+      "présent": {"je":"sais","tu":"sais","il":"sait","nous":"savons","vous":"savez","ils":"savent"},
+      "imparfait": {"je":"savais","tu":"savais","il":"savait","nous":"savions","vous":"saviez","ils":"savaient"},
+      "passé composé": {"je":"ai su","tu":"as su","il":"a su","nous":"avons su","vous":"avez su","ils":"ont su"},
+      "plus que parfait": {"je":"avais su","tu":"avais su","il":"avait su","nous":"avions su","vous":"aviez su","ils":"avaient su"},
+      "futur simple": {"je":"saurai","tu":"sauras","il":"saura","nous":"saurons","vous":"saurez","ils":"sauront"},
+      "futur proche": {"je":"vais savoir","tu":"vas savoir","il":"va savoir","nous":"allons savoir","vous":"allez savoir","ils":"vont savoir"},
+      "conditionnel présent": {"je":"saurais","tu":"saurais","il":"saurait","nous":"saurions","vous":"sauriez","ils":"sauraient"}
+    }
+  },
+  {
+    "verb": "venir",
+    "type": "irregular",
+    "conjugations": {
+      "présent": {"je":"viens","tu":"viens","il":"vient","nous":"venons","vous":"venez","ils":"viennent"},
+      "imparfait": {"je":"venais","tu":"venais","il":"venait","nous":"venions","vous":"veniez","ils":"venaient"},
+      "passé composé": {"je":"suis venu","tu":"es venu","il":"est venu","nous":"sommes venus","vous":"êtes venus","ils":"sont venus"},
+      "plus que parfait": {"je":"étais venu","tu":"étais venu","il":"était venu","nous":"étions venus","vous":"étiez venus","ils":"étaient venus"},
+      "futur simple": {"je":"viendrai","tu":"viendras","il":"viendra","nous":"viendrons","vous":"viendrez","ils":"viendront"},
+      "futur proche": {"je":"vais venir","tu":"vas venir","il":"va venir","nous":"allons venir","vous":"allez venir","ils":"vont venir"},
+      "conditionnel présent": {"je":"viendrais","tu":"viendrais","il":"viendrait","nous":"viendrions","vous":"viendriez","ils":"viendraient"}
+    }
+  },
+  {
+    "verb": "devoir",
+    "type": "irregular",
+    "conjugations": {
+      "présent": {"je":"dois","tu":"dois","il":"doit","nous":"devons","vous":"devez","ils":"doivent"},
+      "imparfait": {"je":"devais","tu":"devais","il":"devait","nous":"devions","vous":"deviez","ils":"devaient"},
+      "passé composé": {"je":"ai dû","tu":"as dû","il":"a dû","nous":"avons dû","vous":"avez dû","ils":"ont dû"},
+      "plus que parfait": {"je":"avais dû","tu":"avais dû","il":"avait dû","nous":"avions dû","vous":"aviez dû","ils":"avaient dû"},
+      "futur simple": {"je":"devrai","tu":"devras","il":"devra","nous":"devrons","vous":"devrez","ils":"devront"},
+      "futur proche": {"je":"vais devoir","tu":"vas devoir","il":"va devoir","nous":"allons devoir","vous":"allez devoir","ils":"vont devoir"},
+      "conditionnel présent": {"je":"devrais","tu":"devrais","il":"devrait","nous":"devrions","vous":"devriez","ils":"devraient"}
+    }
+  },
+  {
+    "verb": "prendre",
+    "type": "irregular",
+    "conjugations": {
+      "présent": {"je":"prends","tu":"prends","il":"prend","nous":"prenons","vous":"prenez","ils":"prennent"},
+      "imparfait": {"je":"prenais","tu":"prenais","il":"prenait","nous":"prenions","vous":"preniez","ils":"prenaient"},
+      "passé composé": {"je":"ai pris","tu":"as pris","il":"a pris","nous":"avons pris","vous":"avez pris","ils":"ont pris"},
+      "plus que parfait": {"je":"avais pris","tu":"avais pris","il":"avait pris","nous":"avions pris","vous":"aviez pris","ils":"avaient pris"},
+      "futur simple": {"je":"prendrai","tu":"prendras","il":"prendra","nous":"prendrons","vous":"prendrez","ils":"prendront"},
+      "futur proche": {"je":"vais prendre","tu":"vas prendre","il":"va prendre","nous":"allons prendre","vous":"allez prendre","ils":"vont prendre"},
+      "conditionnel présent": {"je":"prendrais","tu":"prendrais","il":"prendrait","nous":"prendrions","vous":"prendriez","ils":"prendraient"}
+    }
+  },
+  {
+    "verb": "mettre",
+    "type": "irregular",
+    "conjugations": {
+      "présent": {"je":"mets","tu":"mets","il":"met","nous":"mettons","vous":"mettez","ils":"mettent"},
+      "imparfait": {"je":"mettais","tu":"mettais","il":"mettait","nous":"mettions","vous":"mettiez","ils":"mettaient"},
+      "passé composé": {"je":"ai mis","tu":"as mis","il":"a mis","nous":"avons mis","vous":"avez mis","ils":"ont mis"},
+      "plus que parfait": {"je":"avais mis","tu":"avais mis","il":"avait mis","nous":"avions mis","vous":"aviez mis","ils":"avaient mis"},
+      "futur simple": {"je":"mettrai","tu":"mettras","il":"mettra","nous":"mettrons","vous":"mettrez","ils":"mettront"},
+      "futur proche": {"je":"vais mettre","tu":"vas mettre","il":"va mettre","nous":"allons mettre","vous":"allez mettre","ils":"vont mettre"},
+      "conditionnel présent": {"je":"mettrais","tu":"mettrais","il":"mettrait","nous":"mettrions","vous":"mettriez","ils":"mettraient"},
+      "subjonctif présent": {"que je":"metsse","que tu":"messes","qu’il":"messe","que nous":"mettions","que vous":"mettiez","qu’ils":"missent"}
+    }
+  },
+  {
+    "verb": "parler",
+    "type": "regular",
+    "conjugations": {
+      "présent": {"je":"parle","tu":"parles","il":"parle","nous":"parlons","vous":"parlez","ils":"parlent"},
+      "imparfait": {"je":"parlais","tu":"parlais","il":"parlait","nous":"parlions","vous":"parliez","ils":"parlaient"},
+      "passé composé": {"je":"ai parlé","tu":"as parlé","il":"a parlé","nous":"avons parlé","vous":"avez parlé","ils":"ont parlé"},
+      "plus que parfait": {"je":"avais parlé","tu":"avais parlé","il":"avait parlé","nous":"avions parlé","vous":"aviez parlé","ils":"avaient parlé"},
+      "futur simple": {"je":"parlerai","tu":"parleras","il":"parlera","nous":"parlerons","vous":"parlerez","ils":"parleront"},
+      "futur proche": {"je":"vais parler","tu":"vas parler","il":"va parler","nous":"allons parler","vous":"allez parler","ils":"vont parler"},
+      "conditionnel présent": {"je":"parlerais","tu":"parlerais","il":"parlerait","nous":"parlerions","vous":"parleriez","ils":"parleraient"}
+    }
+  },
+  {
+    "verb": "finir",
+    "type": "regular",
+    "conjugations": {
+      "présent": {"je":"finis","tu":"finis","il":"finit","nous":"finissons","vous":"finissez","ils":"finissent"},
+      "imparfait": {"je":"finissais","tu":"finissais","il":"finissait","nous":"finissions","vous":"finissiez","ils":"finissaient"},
+      "passé composé": {"je":"ai fini","tu":"as fini","il":"a fini","nous":"avons fini","vous":"avez fini","ils":"ont fini"},
+      "plus que parfait": {"je":"avais fini","tu":"avais fini","il":"avait fini","nous":"avions fini","vous":"aviez fini","ils":"avaient fini"},
+      "futur simple": {"je":"finirai","tu":"finiras","il":"finira","nous":"finirons","vous":"finirez","ils":"finiront"},
+      "futur proche": {"je":"vais finir","tu":"vas finir","il":"va finir","nous":"allons finir","vous":"allez finir","ils":"vont finir"},
+      "conditionnel présent": {"je":"finirais","tu":"finirais","il":"finirait","nous":"finirions","vous":"finiriez","ils":"finiraient"}
+    }
+  },
+  {
+    "verb": "choisir",
+    "type": "regular",
+    "conjugations": {
+      "présent": {"je":"choisis","tu":"choisis","il":"choisit","nous":"choisissons","vous":"choisissez","ils":"choisissent"},
+      "imparfait": {"je":"choisissais","tu":"choisissais","il":"choisissait","nous":"choisissions","vous":"choisissiez","ils":"choisissaient"},
+      "passé composé": {"je":"ai choisi","tu":"as choisi","il":"a choisi","nous":"avons choisi","vous":"avez choisi","ils":"ont choisi"},
+      "plus que parfait": {"je":"avais choisi","tu":"avais choisi","il":"avait choisi","nous":"avions choisi","vous":"aviez choisi","ils":"avaient choisi"},
+      "futur simple": {"je":"choisirai","tu":"choiras","il":"choisira","nous":"choisirons","vous":"choisirez","ils":"choisiront"},
+      "futur proche": {"je":"vais choisir","tu":"vas choisir","il":"va choisir","nous":"allons choisir","vous":"allez choisir","ils":"vont choisir"},
+      "conditionnel présent": {"je":"choisirais","tu":"choisirais","il":"choisirait","nous":"choisirions","vous":"choisiriez","ils":"choisiraient"}
+    }
+  },
+  {
+    "verb": "attendre",
+    "type": "regular",
+    "conjugations": {
+      "présent": {"je":"attends","tu":"attends","il":"attend","nous":"attendons","vous":"attendez","ils":"attendent"},
+      "imparfait": {"je":"attendais","tu":"attendais","il":"attendait","nous":"attendions","vous":"attendiez","ils":"attendaient"},
+      "passé composé": {"je":"ai attendu","tu":"as attendu","il":"a attendu","nous":"avons attendu","vous":"avez attendu","ils":"ont attendu"},
+      "plus que parfait": {"je":"avais attendu","tu":"avais attendu","il":"avait attendu","nous":"avions attendu","vous":"aviez attendu","ils":"avaient attendu"},
+      "futur simple": {"je":"attendrai","tu":"attendras","il":"attendra","nous":"attendrons","vous":"attendrez","ils":"attendront"},
+      "futur proche": {"je":"vais attendre","tu":"vas attendre","il":"va attendre","nous":"allons attendre","vous":"allez attendre","ils":"vont attendre"},
+      "conditionnel présent": {"je":"attendrais","tu":"attendrais","il":"attendrait","nous":"attendrions","vous":"attendriez","ils":"attendraient"}
+    }
+  },
+  {
+    "verb": "lire",
+    "type": "irregular",
+    "conjugations": {
+      "présent": {"je":"lis","tu":"lis","il":"lit","nous":"lisons","vous":"lisez","ils":"lisent"},
+      "imparfait": {"je":"lisais","tu":"lisais","il":"lisait","nous":"lisions","vous":"lisiez","ils":"lisaient"},
+      "passé composé": {"je":"ai lu","tu":"as lu","il":"a lu","nous":"avons lu","vous":"avez lu","ils":"ont lu"},
+      "plus que parfait": {"je":"avais lu","tu":"avais lu","il":"avait lu","nous":"avions lu","vous":"aviez lu","ils":"avaient lu"},
+      "futur simple": {"je":"lirais","tu":"liras","il":"lira","nous":"lirons","vous":"lirez","ils":"liront"},
+      "futur proche": {"je":"vais lire","tu":"vas lire","il":"va lire","nous":"allons lire","vous":"allez lire","ils":"vont lire"},
+      "conditionnel présent": {"je":"lirais","tu":"lirais","il":"lirait","nous":"lirions","vous":"liriez","ils":"liraient"}
+    }
+  },
+  {
+    "verb": "écrire",
+    "type": "irregular",
+    "conjugations": {
+      "présent": {"je":"écris","tu":"écris","il":"écrit","nous":"écrivons","vous":"écrivez","ils":"écrivent"},
+      "imparfait": {"je":"écrivais","tu":"écrivais","il":"écrivait","nous":"écrivions","vous":"écriviez","ils":"écrivaient"},
+      "passé composé": {"je":"ai écrit","tu":"as écrit","il":"a écrit","nous":"avons écrit","vous":"avez écrit","ils":"ont écrit"},
+      "plus que parfait": {"je":"avais écrit","tu":"avais écrit","il":"avait écrit","nous":"avions écrit","vous":"aviez écrit","ils":"avaient écrit"},
+      "futur simple": {"je":"écrirai","tu":"écriras","il":"écrira","nous":"écrirons","vous":"écrirez","ils":"écriront"},
+      "futur proche": {"je":"vais écrire","tu":"vas écrire","il":"va écrire","nous":"allons écrire","vous":"allez écrire","ils":"vont écrire"},
+      "conditionnel présent": {"je":"écrirais","tu":"écrirais","il":"écrirait","nous":"écririons","vous":"écririez","ils":"écriraient"}
+    }
+  }
+]

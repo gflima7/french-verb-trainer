@@ -1,0 +1,54 @@
+{
+    "présent": {
+    "regular -er": "Enlevez '-er' de l'infinitif et ajoutez : -e (je), -es (tu), -e (il/elle/on), -ons (nous), -ez (vous), -ent (ils/elles). Exemple : parler → je parle.",
+    "regular -ir": "Enlevez '-ir' de l'infinitif et ajoutez : -is (je), -is (tu), -it (il/elle/on), -issons (nous), -issez (vous), -issent (ils/elles). Exemple : finir → je finis.",
+    "regular -re": "Enlevez '-re' de l'infinitif et ajoutez : -s (je), -s (tu), rien (il/elle/on), -ons (nous), -ez (vous), -ent (ils/elles). Exemple : attendre → j'attends.",
+    "irregular": "Verbe irrégulier. Utilisez les formes apprises."
+    },
+    "futur simple": {
+    "regular": "Prenez l'infinitif complet et ajoutez : -ai (je), -as (tu), -a (il/elle/on), -ons (nous), -ez (vous), -ont (ils/elles). Exemple : parler → je parlerai, finir → je finirai.",
+    "avoir": "Utilisez le radical 'aur-' et ajoutez les terminaisons du futur : j'aurai, tu auras, il aura, nous aurons, vous aurez, ils auront.",
+    "aller": "Utilisez le radical 'ir-' et ajoutez les terminaisons du futur : j'irai, tu iras, il ira, nous irons, vous irez, ils iront."
+    },
+    "conditionnel présent": {
+    "regular": "Prenez l'infinitif complet et ajoutez : -ais (je), -ais (tu), -ait (il/elle/on), -ions (nous), -iez (vous), -aient (ils/elles). Exemple : finir → je finirais, parler → je parlerais.",
+    "avoir": "Utilisez le radical 'aur-' et ajoutez les terminaisons du conditionnel : j'aurais, tu aurais, il aurait, nous aurions, vous auriez, ils auraient.",
+    "être": "Utilisez le radical 'ser-' et ajoutez les terminaisons du conditionnel : je serais, tu serais, il serait, nous serions, vous seriez, ils seraient."
+    },
+    "passé composé": {
+    "all": "Présent de 'avoir' (la plupart des verbes) ou 'être' (pour les verbes de mouvement/réfléchis) + participe passé. Exemple : finir → j'ai fini. Pour les verbes avec 'être', accordez le participe en genre et en nombre."
+    },
+    "imparfait": {
+    "all": "Prenez la forme 'nous' du présent, enlevez '-ons', ajoutez : -ais (je), -ais (tu), -ait (il/elle/on), -ions (nous), -iez (vous), -aient (ils/elles). Exemple : parler → nous parlons → je parlais."
+    },  
+    "plus que parfait": {
+    "all": "Imparfait de 'avoir' ou 'être' + participe passé. Exemple : finir → j'avais fini. Pour les verbes avec 'être', accordez le participe en genre et en nombre."
+    },
+    "futur antérieur": {
+    "regular": "Auxiliaire avoir/être au futur simple + participe passé",
+    "avoir": "Auxiliaire `avoir` au futur simple + participe passé",
+    "être": "Auxiliaire `être` au futur simple + participe passé (avec accord)"
+    },
+    "conditionnel passé": {
+    "regular": "Auxiliaire avoir/être au conditionnel présent + participe passé",
+    "avoir": "Auxiliaire `avoir` au conditionnel présent + participe passé",
+    "être": "Auxiliaire `être` au conditionnel présent + participe passé (avec accord)"
+    },
+    "passé récent": {
+    "regular": "Présent de venir + de + infinitif",
+    "venir": "Présent de `venir` + de + infinitif"
+    },
+    "futur proche": {
+    "all": "Présent de 'aller' + infinitif. Exemple : finir → je vais finir."
+    },
+    "gérondif": {
+    "regular": "Participe présent + en",
+    "avoir": "Participe présent de `avoir` + en",
+    "être": "Participe présent de `être` + en"
+    },
+    "impératif": {
+    "regular": "Formes du présent sans pronoms sujets : -e, -ons, -ez",
+    "avoir": "Irrégulier `aie`, `ayons`, `ayez`",
+    "être": "Irrégulier `sois`, `soyons`, `soyez`"
+    }
+}
