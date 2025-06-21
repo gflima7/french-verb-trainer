@@ -1,20 +1,20 @@
-// === DOM Elements & State ===
+// DOM 
 const form = document.getElementById("conjugationForm");
 const verbTenseEl = document.getElementById("verbTense");
 const helperEl = document.getElementById("helper");
 const hintEl = document.getElementById("hint");
 const verbTypeEl = document.getElementById("verbType");
 
+
+// Data 
 let verbs = [];
 let rules = {};
 let current = {};
 let answers = {};
 let failCount = 0;
 
-// === Constants ===
 const persons = ["je", "tu", "il", "nous", "vous", "ils"];
 
-// === Data Loading ===
 async function loadData() {
   const [verbsRes, rulesRes] = await Promise.all([
     fetch("../data/verbs.json"),
@@ -24,7 +24,7 @@ async function loadData() {
   rules = await rulesRes.json();
 }
 
-// === Utility Functions ===
+// Utility Functions
 function normalizeLabel(label) {
   return label.replace("il/elle/on", "il").replace("ils/elles", "ils");
 }
@@ -41,7 +41,6 @@ function showHint() {
   document.querySelector('.center-layout').classList.add('with-hint');
 }
 
-// When hiding the hint, remove the class:
 function hideHint() {
   hintEl.style.display = "none";
   document.querySelector('.center-layout').classList.remove('with-hint');
@@ -52,7 +51,7 @@ function capitalizeFirst(str) {
   return str.charAt(0).toUpperCase() + str.slice(1);
 }
 
-// === SRS (Spaced Repetition System) ===
+// Spaced Repetition System) 
 function getSRSData() {
   return JSON.parse(localStorage.getItem("srsData") || "{}");
 }
@@ -126,7 +125,7 @@ function updateVerifyBtnText() {
   btn.textContent = (failCount >= 3) ? "Suivant" : "Vérifier";
 }
 
-// === Quiz Setup & Rules ===
+// Setup & Rules
 function pickVerb() {
   const { verbEntry, tense } = pickVerbSRS();
 
@@ -230,7 +229,7 @@ function pickVerb() {
   });
 }
 
-// === Quiz Submission & Feedback ===
+// Submission
 form.addEventListener("submit", (e) => {
   e.preventDefault();
   const btn = document.getElementById("verifyBtn");
@@ -243,7 +242,6 @@ form.addEventListener("submit", (e) => {
       const user = input.value.trim().toLowerCase();
       const correct = answers[label]?.toLowerCase();
 
-      // Remove previous error state
       input.classList.remove("input-error");
       input.placeholder = "";
       input.title = "";
@@ -261,7 +259,6 @@ form.addEventListener("submit", (e) => {
       }
     });
 
-    // Add focus handler for error fields
     inputs.forEach((input) => {
       input.addEventListener("focus", function handler() {
         if (input.classList.contains("input-error")) {
@@ -371,10 +368,10 @@ function showAlertBanner() {
   setTimeout(() => {
     banner.classList.remove("show");
     setTimeout(() => { banner.style.display = "none"; }, 300);
-  }, 2200); // visible for 2.2s
+  }, 2200);
 }
 
-// === App Initialization ===
+// Initialization
 document.addEventListener("DOMContentLoaded", async () => {
   await loadData();
   pickVerb();
