@@ -33,7 +33,7 @@
 
 ## Captures d’écran
 
-![Démonstration de l’application](demo.gif)
+ToDo
 
 ---
 
