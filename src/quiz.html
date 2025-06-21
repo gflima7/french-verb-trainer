@@ -2,15 +2,29 @@
   <meta charset="UTF-8">
   <title>Entraînement de conjugaison</title>
   <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="../icons/icon.png">
 </head>
 <body>
-  <div class="container">
-    <h2 id="verbTense">Chargement...</h2>
-    <div id="verbType"></div>
-    <div id="helper">Conjuguez le verbe</div>
-    <form id="conjugationForm"></form>
-    <button type="submit" form="conjugationForm" id="verifyBtn">Vérifier</button>
-    <div id="hint" style="display:none;"></div>
+  <div class="center-layout">
+    <div class="container">
+      <div id="alert-banner" style="display:none;">
+        <span>Veuillez remplir tous les champs et corriger les erreurs.</span>
+      </div>
+      <h2 id="verbTense">Chargement...</h2>
+      <div id="verbType"></div>
+      <div id="helper">Conjuguez le verbe</div>
+      <form id="conjugationForm"></form>
+      <button type="submit" form="conjugationForm" id="verifyBtn">Vérifier</button>
+    </div>
+    <div id="hint-panel">
+      <div id="hint" style="display:none;"></div>
+    </div>
+  </div>
+  <div id="alert-overlay" style="display:none;">
+    <div class="alert-card">
+      <strong>Veuillez remplir tous les champs et corriger les erreurs.</strong>
+      <button id="close-alert" type="button">OK</button>
+    </div>
   </div>
   <script src="quiz.js"></script>
 </body>
